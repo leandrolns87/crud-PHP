@@ -1,4 +1,5 @@
 CRUD em PHP
+
 Este projeto é um exemplo de um sistema CRUD (Criar, Ler, Atualizar, Deletar) em PHP, utilizando MySQL para gerenciamento de banco de dados. O projeto demonstra como implementar operações básicas de banco de dados em uma aplicação web simples.
 
 Funcionalidades

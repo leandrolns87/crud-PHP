@@ -114,7 +114,6 @@ if ($conn->connect_error) {
 
 Como Usar
 1. Clone o repositório para o seu ambiente local:
-
 git clone https://github.com/seu-usuario/crud-php.git
 
 2. Importe o banco de dados SQL para o seu servidor MySQL.
